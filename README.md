@@ -1,5 +1,7 @@
 # Getting Started
 
+## DISCLAIMER THIS WEBSITE IS FULLY SATIRE
+
 First, run the development server:
 
 ```bash
