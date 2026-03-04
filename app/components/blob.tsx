@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 
+//TODO: add bezier curve to animation
 const Blob = () => {
   const [position, setPosition] = useState({ x: 0, y: 0 });
 
